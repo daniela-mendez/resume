@@ -112,6 +112,9 @@ content:
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
+......
+
+about_profile_image: images/due.png
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
@@ -122,6 +125,3 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
