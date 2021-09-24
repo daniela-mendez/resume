@@ -69,8 +69,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           My little fanart.
-        description: | # this will include new lines to allow paragraphs
-          images/due.png
+        description: images/due.png
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
